@@ -23,3 +23,7 @@
     1. Exponential increase
 6.  Prompt user to take test again once timer approaches zero
     1. Notification System
+
+## Potential features:
+1. Interactive 3D graph
+    1. [Think Machine](https://app.thinkmachine.com/untitled-1740347618387)
