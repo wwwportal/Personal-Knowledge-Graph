@@ -9,21 +9,28 @@
     2. Address security concerns
         1. Use secure authentication methods like OAuth 2.0
 2.  Identify topics and subtopics based on course contents
-    1. spaCy for text pre-processing
-    2. Gensim API for topic modeling tools
-3.  Create topic and subtopic nodes
-4.  Generate tests relevant to each topic node
+    1. Processing
+        1. spaCy for text pre-processing
+        2. Gensim API for topic modeling tools
+    2. Content type
+        1. PDF
+        2. HTML
+        3. link to website
+        4. Code (primarily java for now)
+4.  Create topic and subtopic nodes
+5.  Generate tests relevant to each topic node
     1. Quiz
         1. True or false
         2. Multiple choice
         3. Fill in the blanks
         4. Short answer
     2. Coding challenges
-5.  Set forgetting curve timer
+6.  Set forgetting curve timer
     1. Exponential increase
-6.  Prompt user to take test again once timer approaches zero
+7.  Prompt user to take test again once timer approaches zero
     1. Notification System
 
 ## Potential features:
 1. Interactive 3D graph
     1. [Think Machine](https://app.thinkmachine.com/untitled-1740347618387)
+    2. Identify and create relationships between nodes
